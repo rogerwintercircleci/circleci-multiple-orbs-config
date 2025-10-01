@@ -7,7 +7,7 @@
 An Application for showing how to configure multiple CircleCI orbs on CI
 
 
-## Clone the repository
+## Clone the repository:
 
 run the following command on your terminal to clone the repository:
 
